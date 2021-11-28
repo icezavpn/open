@@ -6,7 +6,7 @@
 
 //@ICEZA
 
-"Url":"https://github.com/itim-vpn/itim-vpn/raw/master/itim.zip" ,
+"Url":"https://github.com/icezavpn/open/raw/main/icezavpn.zip" ,
 
 "บันทึกการเปลี่ยนแปลง":
 
